@@ -1,6 +1,6 @@
 Las rutas están montadas para que el proyecto funcione en htdocs/biblioteca, puede dar error si no esté así.
 
-Es posible que si la carpeta htdocs/images no está creada, de error para insertar imágen.
+Es posible que si la carpeta htdocs/biblioteca/images no está creada, de error para insertar imágen.
 
 - Navegación de la web:
 
