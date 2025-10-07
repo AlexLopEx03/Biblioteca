@@ -20,7 +20,7 @@ try{
         $_POST['title'],
         $_POST['description'],
         $_POST['author'],
-        '/images/' . $imageUrl,
+        '/biblioteca/images/' . $imageUrl,
         $_POST['category'],
         $_POST['url'],
         $_POST['year'],
