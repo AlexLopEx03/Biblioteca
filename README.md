@@ -16,9 +16,7 @@ Es posible que si la carpeta htdocs/images no está creada, de error para insert
 >
 > http://localhost/biblioteca/home.php
 >
-> ---
->
-> Al clicar en el título de alguno de los títulos se navegará a la ruta details con los detalles de un libro concreto
+> Al clicar en el título de alguno de los títulos de los libros se navegará a la ruta details con los detalles del libro concreto
 >
 > http://localhost/biblioteca/details.php?book=book-id-example
 
