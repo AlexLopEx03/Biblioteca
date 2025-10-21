@@ -1,0 +1,13 @@
+.profile{
+    display: flex;
+    justify-content: center;
+    .profile-data, .update-form{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        min-width: 350px;
+        margin-top: 150px;
+        padding: 40px;
+        border-radius: 20px;
+    }
+}

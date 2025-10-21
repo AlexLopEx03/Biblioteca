@@ -1,0 +1,16 @@
+.details{
+    display: flex;
+    justify-content: center;
+    min-height: 100dvh;
+    .book-details{
+        align-self: center;
+        height: 600px;
+        width: 400px;
+        padding: 40px;
+        margin-top: 100px;
+        border-radius: 30px;
+    }
+    img{
+        margin: 20px;
+    }
+}

@@ -1,0 +1,4 @@
+/* Global common components styles */
+@import url('@/styles/common/Navbar.css');
+@import url('@/styles/common/Books.css');
+@import url('@/styles/common/BookDetails.css');

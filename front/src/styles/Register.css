@@ -1,0 +1,49 @@
+.register{
+    display: flex;
+    justify-content: center;
+    height: 100dvh;
+    form{
+        height: 350px;
+        width: 360px;
+        align-self: center;
+        align-items: center;
+        .name{
+            text-align: center;
+            margin-bottom: 20px;
+            font-size: 40px;
+            font-weight: 700;
+            user-select: none;
+        }
+        .input-with-margin-bottom{
+            margin-bottom: 2px;
+        }
+        .bottom{
+            text-align: center;
+            margin-top: 10px;
+            user-select: none;
+            .success-message{
+                color: lightgreen;
+                margin-top: -15px;
+                margin-bottom: 10px;
+                font-size: 19px;
+            }
+            .error-message{
+                color: red;
+                margin-top: -10px;
+                margin-bottom: 10px;
+            }
+            button{
+                margin-bottom: 10px;
+            }
+            p span{
+                color: rgb(0, 200, 255);
+                cursor: pointer;
+            }
+        }
+    }
+    @media (max-height: 500px) {
+        .navbar{
+            display: none;
+        }
+    }
+}
